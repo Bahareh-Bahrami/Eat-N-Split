@@ -1,4 +1,4 @@
-## 💸 Split the Bill App
+## 💸 Eat n Split App
 
 A dynamic React-based app for tracking friends' balances and effortlessly splitting bills—add friends, select who owes what, and watch the math handle the rest.</br>
 This project was built to practice React fundamentals like controlled forms, state updates, and dynamic UI interactions.
